@@ -1,4 +1,4 @@
-name: 'GCP gcloud'
+name: 'GCP Gcloud'
 
 on:
   workflow_dispatch:
