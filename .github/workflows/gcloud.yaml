@@ -37,5 +37,5 @@ jobs:
       with:
         version: '>= 418.0.0'
 
-    -name: 'Use gcloud CLI'
-    run: ${{ github.event.inputs.gcommand }}      
+    - name: 'Use gcloud CLI'
+      run: ${{ github.event.inputs.gcommand }}
