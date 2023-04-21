@@ -11,7 +11,7 @@ jobs:
   google:
     name: 'gcloud-google'
     
-    runs-on: ubuntu
+    runs-on: ubuntu-20.04
 
     defaults:
       run:
